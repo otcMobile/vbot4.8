@@ -4,3 +4,4 @@ HTTP.get('https://raw.githubusercontent.com/Madagenius/Scripsv8/refs/heads/main/
     assert(loadstring(script))()
 end)
 --finaliza script
+
