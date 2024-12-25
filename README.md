@@ -2,6 +2,11 @@
 
 Este repositorio contiene scripts diseñados para usarse en el **vBot 4.8**. Sigue las instrucciones correspondientes a tu versión para evitar errores.  
 
+*CODIGO AQUI*:
+![ahsbhax](https://github.com/user-attachments/assets/8613bebd-c0bf-48b8-a475-e52552e26808)
+
+
+
 ## 📱 **Versión Android**  
 1. Selecciona la pestaña **Android** en el bot (parte inferior derecha).  
 2. Asegúrate de seleccionar los scripts compatibles con esta versión.  
