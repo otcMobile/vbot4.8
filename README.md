@@ -20,13 +20,15 @@ Este repositorio contiene scripts diseñados para usarse en el **vBot 4.8**. Sig
 1. Activa el **Modo Retro** en el cliente, como se muestra en la sección **Interface** (ver imagen).  
 2. Los scripts deben cargarse en las pestañas ubicadas en el panel derecho del bot, marcadas como "Scripts Here".  
 3. Asegúrate de la version que estas usando
+4. usa los scripts de pc en esta version
 
 ![retro mode](https://github.com/user-attachments/assets/a917882f-d730-42bc-9b9b-f42667188313)
 
 
 ## 💻 **Versión Default**  
-1. Utiliza las pestañas estándar para cargar los scripts (ubicadas en el panel izquierdo del bot).  
+1. Utiliza las pestañas estándar para cargar los scripts (ubicadas en el panel derecho del bot).  
 2. Los scripts están optimizados para las configuraciones por defecto del cliente más reciente.
+3. usa los scripts de pc en esta version
 
 ![default mode](https://github.com/user-attachments/assets/fbd34cb0-ea60-438c-87d9-356cf7342465)
 
