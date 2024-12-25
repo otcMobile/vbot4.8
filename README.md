@@ -32,3 +32,11 @@ Este repositorio contiene scripts diseñados para usarse en el **vBot 4.8**. Sig
 
 ![default mode](https://github.com/user-attachments/assets/fbd34cb0-ea60-438c-87d9-356cf7342465)
 
+
+
+
+** NOTA IMPORTANTE **
+- DEBES SELECIONAR ALGUN CHECKBOX PARA ACTIVAR LOS SCRIPTS DE DICHA TAB -
+
+ACLARACIONES O DUDAS A TRAVEZ DE WHATSAPP
+
